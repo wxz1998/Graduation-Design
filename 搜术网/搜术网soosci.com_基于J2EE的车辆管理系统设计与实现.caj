@@ -1,3 +1,0 @@
-<script language=javascript >
-alert('贵单位没有订购该产品，请您与贵单位管理员联系订购！');
-</script><script>self.close();</script>
