@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "layui-src": "^2.5.7",
+    "vue": "^2.6.12"
+  }
 }
